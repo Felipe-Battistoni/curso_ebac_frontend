@@ -1,0 +1,1 @@
+{"version":3,"sources":["mains.scss","variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCHW,KDMf,GACI","file":"../mains.css","sourcesContent":["@use 'variaveis';\r\n\r\nbody {\r\n    background-color: variaveis.$corPrincipal;\r\n}\r\n\r\nh1 {\r\n    color: white;\r\n}","$corPrincipal: black;"]}
